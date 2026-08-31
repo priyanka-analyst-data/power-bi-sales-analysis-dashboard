@@ -1,50 +1,109 @@
-Power BI Sales Analysis Dashboard
-📊 Project Overview
+# 📊 Power BI Sales Analysis Dashboard
 
-This project is an interactive Power BI Sales Analysis Dashboard created to analyze sales performance across regions, cities, categories, products, and customers.
+## 📌 Project Overview
 
-The dashboard helps identify sales trends, profitability, customer distribution, and product performance through interactive visuals and KPIs.
+This project presents an **interactive Sales Analysis Dashboard built using Microsoft Power BI** to analyze sales performance across regions, cities, categories, products, and customers.
 
-🛠️ Tools & Technologies
-Power BI
-Microsoft Excel
-SQL
-Python
-🧹 Data Preparation
+The dashboard transforms raw sales data into meaningful **KPIs, visual trends, and business insights**, helping stakeholders understand performance and identify areas that require attention.
 
-The dataset was cleaned and prepared before visualization, including:
+---
 
-Removing unnecessary spaces and inconsistencies
-Standardizing text values
-Correcting data types
-Handling missing values
-Identifying duplicate records
-Preparing data for analysis
-📈 Dashboard Features
-Total Sales
-Total Profit
-Total Orders
-Average Sales Amount
-Total Customers
-Profit Margin
-Sales by Region
-Sales by Category
-Sales Trend Over Months
-Product Performance
-Customer Details
-Interactive City Slicer
-🔍 Key Insights
-The South region recorded the highest sales.
-Electronics generated the highest revenue.
-Accessories had the highest quantity sold.
-July recorded the highest sales.
-April recorded the lowest sales.
-Product and city-level analysis helped identify areas with stronger and weaker performance.
-💡 Business Recommendations
-Focus more on high-performing regions and cities.
-Improve marketing efforts during lower-performing months.
-Increase focus on high-volume product categories.
-Monitor low-performing products and regions for improvement.
-📷 Dashboard Preview
+## 🛠️ Tools & Technologies
 
-The dashboard screenshot is available in this repository.
+* **Microsoft Power BI** – Dashboard development, data modeling, KPIs, and interactive visualizations
+* **Power Query** – Data cleaning and transformation
+* **Microsoft Excel** – Raw data storage, initial data review, and preparation
+
+---
+
+## 🧹 Data Cleaning & Transformation
+
+Before building the dashboard, the raw dataset was cleaned and transformed to ensure reliable analysis.
+
+Key steps included:
+
+* Removed unnecessary spaces and inconsistent text values
+* Standardized text fields for consistent grouping and analysis
+* Corrected column data types
+* Identified and handled missing values
+* Checked for duplicate records
+* Prepared the cleaned dataset for Power BI analysis
+
+---
+
+## 📊 Dashboard KPIs
+
+The dashboard provides the following key performance indicators:
+
+| KPI                      |      Value |
+| ------------------------ | ---------: |
+| **Total Sales**          |   **249K** |
+| **Total Profit**         |    **48K** |
+| **Total Orders**         |      **9** |
+| **Average Sales Amount** | **27.67K** |
+| **Total Customers**      |      **8** |
+
+---
+
+## 📈 Dashboard Features
+
+The dashboard includes interactive visuals to analyze:
+
+* **Sales by Region**
+* **Sales by Category**
+* **Sales Trend by Month**
+* **Product Performance**
+* **Quantity by Category and Product**
+* **Customer Details**
+* **City-level Analysis**
+* **Interactive City Slicer**
+* **KPI Cards for quick performance monitoring**
+
+---
+
+## 🔍 Key Business Insights
+
+* 🌍 **Regional Performance:** The **South region** recorded the highest overall sales, while the **East region** recorded the lowest.
+* 💰 **Category Performance:** **Electronics** generated the highest revenue.
+* 📦 **Quantity Performance:** **Accessories** recorded the highest quantity sold, while Furniture had lower sales volume.
+* 📅 **Monthly Performance:** **July** recorded the highest sales, while **April** recorded the lowest.
+* 🖱️ **Product Performance:** **Mouse** showed strong sales performance, while **Office Chairs** had comparatively lower sales.
+* 🏙️ **Geographic Analysis:** City-level analysis revealed differences in product demand and sales performance across locations.
+
+---
+
+## 💡 Business Recommendations
+
+Based on the analysis:
+
+* Focus marketing and sales efforts on high-performing regions and cities.
+* Investigate the reasons behind lower sales during weaker months and introduce targeted promotions.
+* Maintain adequate inventory for high-demand product categories such as Electronics and Accessories.
+* Monitor underperforming products and develop strategies to improve their performance.
+* Use city-level insights to identify opportunities for targeted sales and marketing activities.
+
+---
+
+## 🎯 Project Objective
+
+The objective of this project was to demonstrate the ability to:
+
+* Clean and prepare raw data
+* Build an interactive Power BI dashboard
+* Create and interpret business KPIs
+* Analyze sales and profitability trends
+* Identify meaningful business insights
+* Translate data findings into actionable recommendations
+
+---
+
+## 📷 Dashboard Preview
+
+
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates an end-to-end **data analysis and business intelligence workflow**, from raw data preparation to interactive visualization and business insight generation using **Power BI**.
+
