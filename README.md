@@ -98,6 +98,7 @@ The objective of this project was to demonstrate the ability to:
 ---
 
 ## 📷 Dashboard Preview
+<img width="763" height="426" alt="POWER BI SALES PERFORMANCE DASHBOARD 2" src="https://github.com/user-attachments/assets/295ffac1-dbb8-47cc-8f1e-0e4f953e3539" />
 
 
 
